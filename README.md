@@ -31,7 +31,7 @@ Spread holiday cheer with this fun and easy-to-use Christmas Personalised Image 
     
     2. Generate the image, preview, and choose any desired template.
 
-    3. Download your personalized Christmas image and share the festive spirit!
+    3. Download your personalized Christmas image and share it with your friends and relatives!
 
 
 ## Screenshots
@@ -46,14 +46,14 @@ Contributions are welcome! Feel free to open issues, suggest improvements, or ad
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JAVASCRIPT
+**Client Side:** HTML, CSS, JAVASCRIPT
 
-**Server:** JAVASCRIPT, GITHUB 
-
-
-## Demo
-
-Insert gif or link to demo
+**Server Side:** JAVASCRIPT, GITHUB 
 
 
-# 🎅 Happy Holidays and Happy Coding! 🎁
+## Live Preview 
+**View live Project** [ **Click here**](https://anupr0y.github.io/Christmas-Personalised-Image-Generator/Christmas-Personalised-Image-Generator/index.html)
+
+
+
+# 🎅 Merry Christmas and Happy New Year! 🎁
