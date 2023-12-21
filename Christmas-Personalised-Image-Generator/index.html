@@ -1,0 +1,39 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christmas Greeting App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="app">
+        <h1>Christmas Greeting App</h1>
+        <p>Create festive personalized images for Christmas greetings! Customize your own holiday message with your name, recipient's name, and a special note. Choose from a variety of pre-designed templates, download, and share the joy!</p>
+        <form id="greetingForm">
+            <label for="senderName">Your Name:</label>
+            <input type="text" id="senderName" required placeholder="Anup Roy">
+
+            <label for="recipientName">Recipient's Name:</label>
+            <input type="text" id="recipientName" placeholder="My Love" required>
+
+            <label for="message">Type Your Message:</label>
+            <textarea id="message" placeholder="Merry Christmas🎄🎅🏻" required></textarea>
+
+            <button type="button" onclick="generateGreeting()">Generate</button>
+        </form>
+
+        <div id="preview"></div>
+        <!-- Add the following button element to your HTML -->
+        <!-- Remove the shareButton element and add the following downloadButton element to your HTML -->
+        <button id="downloadButton" style="display: none;" onclick="downloadGreeting()">Download</button>
+
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
