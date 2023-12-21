@@ -36,7 +36,8 @@ Spread holiday cheer with this fun and easy-to-use Christmas Personalised Image 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="https://github.com/anupr0y/Christmas-Personalised-Image-Generator/assets/114636305/cdbfec33-fa95-48c3-999e-cdb7ea801078" width="500" height="600">
+<img src="https://github.com/anupr0y/Christmas-Personalised-Image-Generator/assets/114636305/96c604a0-33f4-43a6-93e1-fa221023fe8f" width="500" height="600">
 
 ## Contribution Guidelines:
 
