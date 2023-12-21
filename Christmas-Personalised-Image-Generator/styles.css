@@ -52,6 +52,7 @@ textarea {
 }
 
 button {
+    margin: 20px auto;
     padding: 10px 20px;
     background-color: rgb(40, 40, 207);
     color: white;
@@ -63,11 +64,12 @@ button:hover{
     background-color: rgb(10, 119, 244);
 }
 #downloadButton{
-    margin: 5% 0 10% 40%;
-    background-color: rgb(77, 160, 255);
+    background-color: rgb(0, 168, 62);
+    width: 100%;
+
 
 }
 #downloadButton:hover{
-    background-color: rgb(40, 40, 207);
- 
+    background-color: rgb(77, 160, 255);
+
 }
